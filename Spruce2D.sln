@@ -1,0 +1,31 @@
+﻿
+Microsoft Visual Studio Solution File, Format Version 12.00
+# Visual Studio Version 16
+VisualStudioVersion = 16.0.30204.135
+MinimumVisualStudioVersion = 10.0.40219.1
+Project("{8BC9CEB8-8B4A-11D0-8D11-00A0C91BC942}") = "Sandbox", "Sandbox\Sandbox.vcxproj", "{AA9E3B3C-03B0-44B4-924C-196611DA4737}"
+EndProject
+Project("{8BC9CEB8-8B4A-11D0-8D11-00A0C91BC942}") = "Spruce2D", "Spruce2D\Spruce2D.vcxproj", "{9834EEAC-A928-439E-930B-259B66D28223}"
+EndProject
+Global
+	GlobalSection(SolutionConfigurationPlatforms) = preSolution
+		Debug|x64 = Debug|x64
+		Release|x64 = Release|x64
+	EndGlobalSection
+	GlobalSection(ProjectConfigurationPlatforms) = postSolution
+		{9834EEAC-A928-439E-930B-259B66D28223}.Debug|x64.ActiveCfg = Debug|x64
+		{9834EEAC-A928-439E-930B-259B66D28223}.Debug|x64.Build.0 = Debug|x64
+		{9834EEAC-A928-439E-930B-259B66D28223}.Release|x64.ActiveCfg = Debug|x64
+		{9834EEAC-A928-439E-930B-259B66D28223}.Release|x64.Build.0 = Debug|x64
+		{AA9E3B3C-03B0-44B4-924C-196611DA4737}.Debug|x64.ActiveCfg = Debug|x64
+		{AA9E3B3C-03B0-44B4-924C-196611DA4737}.Debug|x64.Build.0 = Debug|x64
+		{AA9E3B3C-03B0-44B4-924C-196611DA4737}.Release|x64.ActiveCfg = Debug|x64
+		{AA9E3B3C-03B0-44B4-924C-196611DA4737}.Release|x64.Build.0 = Debug|x64
+	EndGlobalSection
+	GlobalSection(SolutionProperties) = preSolution
+		HideSolutionNode = FALSE
+	EndGlobalSection
+	GlobalSection(ExtensibilityGlobals) = postSolution
+		SolutionGuid = {9EC84F94-4E5B-40B7-BC7B-60FDE204B372}
+	EndGlobalSection
+EndGlobal
